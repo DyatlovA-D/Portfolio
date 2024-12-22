@@ -1,5 +1,4 @@
 ### Hi there 👋
-![I am Data Analyst](https://cdn1.ozone.ru/s3/multimedia-x/6460775373.jpg)
 
 I made this projects during completing data analysis courses and would like to share the results of such education
 
